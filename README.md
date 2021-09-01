@@ -3,5 +3,5 @@
 Tap this repository:
 
 ```
-brew tap tqzone/homebrew-blackfire
+brew tap tqzone/php
 ```
