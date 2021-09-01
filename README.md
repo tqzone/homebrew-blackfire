@@ -3,5 +3,5 @@
 Tap this repository:
 
 ```
-brew tap blackfireio/homebrew-blackfire
+brew tap tqzone/homebrew-blackfire
 ```
